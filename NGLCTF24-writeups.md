@@ -1,4 +1,4 @@
-# UITS NGLCTF24 Wrriteups
+# UITS NGLCTF24 Writeups
 ## Crypto
 Most of the Crypto problems given in this ctf can be solved using https://www.dcode.fr/ or CyberChef. We can identify chipher from https://www.dcode.fr/cipher-identifier.
 
