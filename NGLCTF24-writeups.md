@@ -82,7 +82,7 @@ Most of the Crypto problems given in this ctf can be solved using https://www.dc
 ### Somthing left behind
 - Inspected the web page
 - Should've guess that it's in the comment from the Challenge name. but didn't.
-- Yeah, it's on the last line comment -'<!-- hiding my secrets: EKO{s1mpl3_comm3nt} -->'
+- Yeah, it's on the last line comment -'hiding my secrets: EKO{s1mpl3_comm3nt}'
 - flag: `NGLCTF24{s1mpl3_comm3nt}`
 
 ## Steganography
